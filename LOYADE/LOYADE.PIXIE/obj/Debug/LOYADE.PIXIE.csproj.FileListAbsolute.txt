@@ -1,0 +1,8 @@
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.PIXIE\bin\Debug\LOYADE.PIXIE.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.PIXIE\bin\Debug\LOYADE.PIXIE.pdb
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.PIXIE\obj\Debug\LOYADE.PIXIE.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.PIXIE\obj\Debug\LOYADE.PIXIE.pdb
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.PIXIE\obj\Debug\LOYADE.PIXIE.csprojResolveAssemblyReference.cache
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.PIXIE\bin\Debug\System.Net.Http.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.PIXIE\bin\Debug\System.Net.Http.xml
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.PIXIE\bin\Debug\zh-Hans\System.Net.Http.resources.dll

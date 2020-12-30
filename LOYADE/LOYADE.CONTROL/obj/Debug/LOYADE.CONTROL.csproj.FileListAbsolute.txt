@@ -1,0 +1,10 @@
+H:\VCSharp\LOYADE\LOYADE.CONTROL\obj\Debug\LOYADE.CONTROL.csprojResolveAssemblyReference.cache
+H:\VCSharp\LOYADE\LOYADE.CONTROL\bin\Debug\LOYADE.CONTROL.dll
+H:\VCSharp\LOYADE\LOYADE.CONTROL\bin\Debug\LOYADE.CONTROL.pdb
+H:\VCSharp\LOYADE\LOYADE.CONTROL\obj\Debug\LOYADE.CONTROL.dll
+H:\VCSharp\LOYADE\LOYADE.CONTROL\obj\Debug\LOYADE.CONTROL.pdb
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.CONTROL\bin\Debug\LOYADE.CONTROL.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.CONTROL\bin\Debug\LOYADE.CONTROL.pdb
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.CONTROL\obj\Debug\LOYADE.CONTROL.csprojResolveAssemblyReference.cache
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.CONTROL\obj\Debug\LOYADE.CONTROL.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.CONTROL\obj\Debug\LOYADE.CONTROL.pdb

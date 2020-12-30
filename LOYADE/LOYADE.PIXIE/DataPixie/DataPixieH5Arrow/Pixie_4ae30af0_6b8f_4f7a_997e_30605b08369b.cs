@@ -1,0 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Drawing;
+
+namespace LOYADE.PIXIE.DataPixieH5Arrow
+{
+    public class PIXIE_4ae30af0_6b8f_4f7a_997e_30605b08369b : Pixie
+    {
+        public PIXIE_4ae30af0_6b8f_4f7a_997e_30605b08369b()
+        { 
+            _listfillcolor = new List<Color>();
+            _listbordercolor = new List<Color>();
+            _listborderwidth = new List<float>();
+            
+            _x = 0f;
+            _y = 0f;
+            _z = 0f; 
+
+            _listfillcolor.Add(ColorTranslator.FromHtml("#0ff"));_listborderwidth.Add(2);_listbordercolor.Add(ColorTranslator.FromHtml("#000"));_listfillcolor.Add(ColorTranslator.FromHtml("#0ff"));_listborderwidth.Add(2);_listbordercolor.Add(ColorTranslator.FromHtml("#000"));_listfillcolor.Add(ColorTranslator.FromHtml("#0ff"));_listborderwidth.Add(2);_listbordercolor.Add(ColorTranslator.FromHtml("#000"));_listfillcolor.Add(ColorTranslator.FromHtml("#0ff"));_listborderwidth.Add(2);_listbordercolor.Add(ColorTranslator.FromHtml("#000"));_listfillcolor.Add(ColorTranslator.FromHtml("#0ff"));_listborderwidth.Add(2);_listbordercolor.Add(ColorTranslator.FromHtml("#000"));
+_w = 970f; _h = 616f;
+_content = "var arrFillColor = new Array(5); var arrBorderColor = new Array(5); var arrBorderWidth = new Array(5); arrFillColor[0] = '#0ff'; arrFillColor[1] = '#0ff'; arrFillColor[2] = '#0ff'; arrFillColor[3] = '#0ff'; arrFillColor[4] = '#0ff'; arrBorderColor[0] = '#000'; arrBorderColor[1] = '#000'; arrBorderColor[2] = '#000'; arrBorderColor[3] = '#000'; arrBorderColor[4] = '#000'; arrBorderWidth[0] = '2'; arrBorderWidth[1] = '2'; arrBorderWidth[2] = '2'; arrBorderWidth[3] = '2'; arrBorderWidth[4] = '2'; ctx.beginPath(); /* path */ ctx.moveTo(465,142);ctx.lineTo(664,152);ctx.lineTo(644,28);ctx.lineTo(653,28);ctx.lineTo(666,54);ctx.lineTo(680,80);ctx.lineTo(695,104);ctx.lineTo(711,127);ctx.lineTo(728,149);ctx.lineTo(746,170);ctx.lineTo(766,190);ctx.lineTo(786,208);ctx.lineTo(807,226);ctx.lineTo(830,243);ctx.lineTo(852,259);ctx.lineTo(875,274);ctx.lineTo(898,287);ctx.lineTo(921,300);ctx.lineTo(946,311);ctx.lineTo(958,317);ctx.lineTo(970,322);ctx.lineTo(958,327);ctx.lineTo(934,338);ctx.lineTo(910,350);ctx.lineTo(887,364);ctx.lineTo(864,378);ctx.lineTo(841,393);ctx.lineTo(819,410);ctx.lineTo(797,427);ctx.lineTo(776,445);ctx.lineTo(756,464);ctx.lineTo(737,485);ctx.lineTo(720,506);ctx.lineTo(703,529);ctx.lineTo(687,553);ctx.lineTo(673,577);ctx.lineTo(660,603);ctx.lineTo(653,616);ctx.lineTo(644,616);ctx.lineTo(664,493);ctx.lineTo(465,503);ctx.lineTo(501,322);ctx.lineTo(465,142);ctx.fillStyle = arrFillColor[0];ctx.fill();ctx.lineWidth = arrBorderWidth[0];ctx.strokeStyle = arrBorderColor[0];ctx.stroke();ctx.closePath();ctx.beginPath(); /* path */ ctx.moveTo(28,120);ctx.lineTo(55,122);ctx.lineTo(92,322);ctx.lineTo(55,523);ctx.lineTo(28,524);ctx.lineTo(65,322);ctx.lineTo(28,120);ctx.fillStyle = arrFillColor[1];ctx.fill();ctx.lineWidth = arrBorderWidth[1];ctx.strokeStyle = arrBorderColor[1];ctx.stroke();ctx.closePath();ctx.beginPath(); /* path */ ctx.moveTo(138,126);ctx.lineTo(175,127);ctx.lineTo(212,322);ctx.lineTo(175,518);ctx.lineTo(138,519);ctx.lineTo(175,322);ctx.lineTo(138,126);ctx.fillStyle = arrFillColor[2];ctx.fill();ctx.lineWidth = arrBorderWidth[2];ctx.strokeStyle = arrBorderColor[2];ctx.stroke();ctx.closePath();ctx.beginPath(); /* path */ ctx.moveTo(244,131);ctx.lineTo(304,134);ctx.lineTo(341,322);ctx.lineTo(304,511);ctx.lineTo(244,514);ctx.lineTo(281,322);ctx.lineTo(244,131);ctx.fillStyle = arrFillColor[3];ctx.fill();ctx.lineWidth = arrBorderWidth[3];ctx.strokeStyle = arrBorderColor[3];ctx.stroke();ctx.closePath();ctx.beginPath(); /* path */ ctx.moveTo(350,136);ctx.lineTo(437,141);ctx.lineTo(474,322);ctx.lineTo(437,504);ctx.lineTo(350,508);ctx.lineTo(387,322);ctx.lineTo(350,136);ctx.fillStyle = arrFillColor[4];ctx.fill();ctx.lineWidth = arrBorderWidth[4];ctx.strokeStyle = arrBorderColor[4];ctx.stroke();ctx.closePath();";
+        }
+
+
+        public override void Paint(Graphics g)
+        { 
+            SolidBrush sb;
+            Pen p;
+            List<Point> listpt;
+            
+listpt = new List<Point>();listpt.Add(new Point(465,142));listpt.Add(new Point(664,152));listpt.Add(new Point(644,28));listpt.Add(new Point(653,28));listpt.Add(new Point(666,54));listpt.Add(new Point(680,80));listpt.Add(new Point(695,104));listpt.Add(new Point(711,127));listpt.Add(new Point(728,149));listpt.Add(new Point(746,170));listpt.Add(new Point(766,190));listpt.Add(new Point(786,208));listpt.Add(new Point(807,226));listpt.Add(new Point(830,243));listpt.Add(new Point(852,259));listpt.Add(new Point(875,274));listpt.Add(new Point(898,287));listpt.Add(new Point(921,300));listpt.Add(new Point(946,311));listpt.Add(new Point(958,317));listpt.Add(new Point(970,322));listpt.Add(new Point(958,327));listpt.Add(new Point(934,338));listpt.Add(new Point(910,350));listpt.Add(new Point(887,364));listpt.Add(new Point(864,378));listpt.Add(new Point(841,393));listpt.Add(new Point(819,410));listpt.Add(new Point(797,427));listpt.Add(new Point(776,445));listpt.Add(new Point(756,464));listpt.Add(new Point(737,485));listpt.Add(new Point(720,506));listpt.Add(new Point(703,529));listpt.Add(new Point(687,553));listpt.Add(new Point(673,577));listpt.Add(new Point(660,603));listpt.Add(new Point(653,616));listpt.Add(new Point(644,616));listpt.Add(new Point(664,493));listpt.Add(new Point(465,503));listpt.Add(new Point(501,322));listpt.Add(new Point(465,142));sb = new SolidBrush(_listfillcolor[0]);p = new Pen(Color.Black);p.Width = _listborderwidth[0];p.Color = _listbordercolor[0];g.FillPolygon(sb, listpt.ToArray());g.DrawPolygon(p, listpt.ToArray());
+listpt = new List<Point>();listpt.Add(new Point(28,120));listpt.Add(new Point(55,122));listpt.Add(new Point(92,322));listpt.Add(new Point(55,523));listpt.Add(new Point(28,524));listpt.Add(new Point(65,322));listpt.Add(new Point(28,120));sb = new SolidBrush(_listfillcolor[1]);p = new Pen(Color.Black);p.Width = _listborderwidth[1];p.Color = _listbordercolor[1];g.FillPolygon(sb, listpt.ToArray());g.DrawPolygon(p, listpt.ToArray());
+listpt = new List<Point>();listpt.Add(new Point(138,126));listpt.Add(new Point(175,127));listpt.Add(new Point(212,322));listpt.Add(new Point(175,518));listpt.Add(new Point(138,519));listpt.Add(new Point(175,322));listpt.Add(new Point(138,126));sb = new SolidBrush(_listfillcolor[2]);p = new Pen(Color.Black);p.Width = _listborderwidth[2];p.Color = _listbordercolor[2];g.FillPolygon(sb, listpt.ToArray());g.DrawPolygon(p, listpt.ToArray());
+listpt = new List<Point>();listpt.Add(new Point(244,131));listpt.Add(new Point(304,134));listpt.Add(new Point(341,322));listpt.Add(new Point(304,511));listpt.Add(new Point(244,514));listpt.Add(new Point(281,322));listpt.Add(new Point(244,131));sb = new SolidBrush(_listfillcolor[3]);p = new Pen(Color.Black);p.Width = _listborderwidth[3];p.Color = _listbordercolor[3];g.FillPolygon(sb, listpt.ToArray());g.DrawPolygon(p, listpt.ToArray());
+listpt = new List<Point>();listpt.Add(new Point(350,136));listpt.Add(new Point(437,141));listpt.Add(new Point(474,322));listpt.Add(new Point(437,504));listpt.Add(new Point(350,508));listpt.Add(new Point(387,322));listpt.Add(new Point(350,136));sb = new SolidBrush(_listfillcolor[4]);p = new Pen(Color.Black);p.Width = _listborderwidth[4];p.Color = _listbordercolor[4];g.FillPolygon(sb, listpt.ToArray());g.DrawPolygon(p, listpt.ToArray());
+        }
+    }
+}

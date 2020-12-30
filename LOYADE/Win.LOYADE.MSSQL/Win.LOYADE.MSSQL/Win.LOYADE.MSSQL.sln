@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win.LOYADE.MSSQL", "Win.LOYADE.MSSQL\Win.LOYADE.MSSQL.csproj", "{9A9C96A8-3AF2-496B-BE4F-9D4408AEF195}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOYADE.DATA", "..\..\LOYADE.DATA\LOYADE.DATA.csproj", "{72D32AAE-1CDC-496D-81C2-593A3B151C3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A9C96A8-3AF2-496B-BE4F-9D4408AEF195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9C96A8-3AF2-496B-BE4F-9D4408AEF195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9C96A8-3AF2-496B-BE4F-9D4408AEF195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9C96A8-3AF2-496B-BE4F-9D4408AEF195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D32AAE-1CDC-496D-81C2-593A3B151C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D32AAE-1CDC-496D-81C2-593A3B151C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D32AAE-1CDC-496D-81C2-593A3B151C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D32AAE-1CDC-496D-81C2-593A3B151C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7A12F32-08AE-4461-ADBD-BBB6A777D140}
+	EndGlobalSection
+EndGlobal

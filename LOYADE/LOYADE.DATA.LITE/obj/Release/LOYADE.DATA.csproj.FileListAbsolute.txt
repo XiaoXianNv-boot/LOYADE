@@ -1,0 +1,1 @@
+C:\_project\VCSharp\LOYADE\LOYADE.DATA\obj\Release\LOYADE.DATA.csprojResolveAssemblyReference.cache

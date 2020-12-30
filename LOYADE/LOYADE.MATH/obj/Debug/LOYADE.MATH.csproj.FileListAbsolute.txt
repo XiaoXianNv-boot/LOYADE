@@ -1,0 +1,14 @@
+H:\VCSharp\LOYADE\LOYADE.MATH\bin\Debug\LOYADE.MATH.dll
+H:\VCSharp\LOYADE\LOYADE.MATH\bin\Debug\LOYADE.MATH.pdb
+H:\VCSharp\LOYADE\LOYADE.MATH\obj\Debug\LOYADE.MATH.dll
+H:\VCSharp\LOYADE\LOYADE.MATH\obj\Debug\LOYADE.MATH.pdb
+H:\VCSharp\LOYADE\LOYADE.MATH\obj\Debug\LOYADE.MATH.csprojResolveAssemblyReference.cache
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.MATH\bin\Debug\LOYADE.MATH.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.MATH\bin\Debug\LOYADE.MATH.pdb
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.MATH\obj\Debug\LOYADE.MATH.csprojResolveAssemblyReference.cache
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.MATH\obj\Debug\LOYADE.MATH.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.MATH\obj\Debug\LOYADE.MATH.pdb
+D:\_vcsharp\LOYADE\LOYADE.MATH\bin\Debug\LOYADE.MATH.dll
+D:\_vcsharp\LOYADE\LOYADE.MATH\bin\Debug\LOYADE.MATH.pdb
+D:\_vcsharp\LOYADE\LOYADE.MATH\obj\Debug\LOYADE.MATH.dll
+D:\_vcsharp\LOYADE\LOYADE.MATH\obj\Debug\LOYADE.MATH.pdb

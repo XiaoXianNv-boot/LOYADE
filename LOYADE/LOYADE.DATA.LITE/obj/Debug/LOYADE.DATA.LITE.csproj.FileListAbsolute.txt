@@ -1,0 +1,9 @@
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\bin\Debug\LOYADE.DATA.LITE.dll
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\bin\Debug\LOYADE.DATA.LITE.pdb
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\bin\Debug\LOYADE.dll
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\bin\Debug\ThoughtWorks.QRCode.dll
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\bin\Debug\LOYADE.pdb
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\obj\Debug\LOYADE.DATA.LITE.csprojAssemblyReference.cache
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\obj\Debug\LOYADE.DATA.LITE.csproj.CopyComplete
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\obj\Debug\LOYADE.DATA.LITE.dll
+D:\_vcsharp\LOYADE\LOYADE.DATA.LITE\obj\Debug\LOYADE.DATA.LITE.pdb

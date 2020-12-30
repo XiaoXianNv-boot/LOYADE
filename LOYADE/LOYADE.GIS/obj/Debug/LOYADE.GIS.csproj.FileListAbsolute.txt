@@ -1,0 +1,9 @@
+E:\VCSharp\LOYADE\LOYADE.GIS\bin\Debug\LOYADE.GIS.dll
+E:\VCSharp\LOYADE\LOYADE.GIS\bin\Debug\LOYADE.GIS.pdb
+E:\VCSharp\LOYADE\LOYADE.GIS\obj\Debug\LOYADE.GIS.dll
+E:\VCSharp\LOYADE\LOYADE.GIS\obj\Debug\LOYADE.GIS.pdb
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.GIS\bin\Debug\LOYADE.GIS.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.GIS\bin\Debug\LOYADE.GIS.pdb
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.GIS\obj\Debug\LOYADE.GIS.csprojResolveAssemblyReference.cache
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.GIS\obj\Debug\LOYADE.GIS.dll
+E:\0CurrentProject\VCSharp\LOYADE\LOYADE.GIS\obj\Debug\LOYADE.GIS.pdb

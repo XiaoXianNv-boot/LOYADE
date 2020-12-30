@@ -1,0 +1,13 @@
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\bin\Debug\TestLOYADE.exe.config
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\bin\Debug\TestLOYADE.exe
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\bin\Debug\TestLOYADE.pdb
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\bin\Debug\LOYADE.DATA.REALTIME.dll
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\bin\Debug\LOYADE.DATA.REALTIME.pdb
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\obj\Debug\TestLOYADE.csprojResolveAssemblyReference.cache
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\obj\Debug\TestLOYADE.formTestDATAREALTIME.resources
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\obj\Debug\TestLOYADE.formVDT.resources
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\obj\Debug\TestLOYADE.Properties.Resources.resources
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\obj\Debug\TestLOYADE.csproj.GenerateResource.Cache
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\obj\Debug\TestLOYADE.exe
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\obj\Debug\TestLOYADE.pdb
+E:\0CurrentProject\VCSharp\LOYADE\TestLOYADE\obj\Debug\TestLOYADE.formVCQStore.resources
